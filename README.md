@@ -1,5 +1,5 @@
-# R_Intro-Environment
-Introduction to R: The R environment
+# Introduction to R
+## The R environment
 
 First steps: 
 * make sure everything is installed;
