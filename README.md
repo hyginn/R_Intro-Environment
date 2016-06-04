@@ -1,4 +1,4 @@
-<span style="font-size: 125%;">Introduction to R:</span>
+*Introduction to R:*
 **The R environment**
 ---
 
