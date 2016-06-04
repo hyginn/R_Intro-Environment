@@ -1,5 +1,6 @@
-# Introduction to R
-## The R environment
+<span style="font-size: 125%;">Introduction to R:</span>
+**The R environment**
+---
 
 First steps: 
 * make sure everything is installed;
