@@ -149,7 +149,7 @@ list.files()
 # This way you are on a good path to robust, reproducible
 # work habits.
 
-# The assets folder of this project contains a sample script.
+# This project contains a sample script.
 # TASK: save a copy to an R resources folder
 
 # When working with a script, you simply type your commands in the script, as
@@ -176,7 +176,7 @@ for (i in 1:length(dir())) {
 # You can use source("<filename>") to execute an entire
 # script at once.
 
-# TASK: open and study the filke scriptTemplate.R .
+# TASK: open and study the file scriptTemplate.R .
 #       Make a copy in your R resources directory.
 #
 
