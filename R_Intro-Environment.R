@@ -3,11 +3,12 @@
 # Purpose: Familiarize yourself with the R environment, in particular as
 #          presented through RStudio.
 #
-# Version: 1.0
+# Version: 1.1
 #
-# Date:    2016  06  01
+# Date:    2016  09  13
 # Author:  Boris Steipe (boris.steipe@utoronto.ca)
 #
+# V 1.1    Minor update
 # V 1.0    First code
 #
 # TODO:
@@ -66,12 +67,9 @@ getwd()   # is this the correct directory?
 #       -  What does it do?
 
 
-
 # ==== CHECKPOINT =========================
-# Place a green PostIt on the lid of your
-# laptop when done, place a pink PostIt
-# if this didn't work or if you have
-# questions.
+# Tell your instructor if you are stuck
+# at this point.
 # =========================================
 
 
@@ -181,10 +179,8 @@ for (i in 1:length(dir())) {
 #
 
 # ==== CHECKPOINT =========================
-# Place a green PostIt on the lid of your
-# laptop when done, place a pink PostIt
-# if this didn't work or if you have
-# questions.
+# Tell your instructor if you are stuck
+# at this point.
 # =========================================
 
 
